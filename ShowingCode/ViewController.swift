@@ -3,7 +3,7 @@
 //  ShowingCode
 //
 //  Created by Zachary on 18/11/2018.
-//  Copyright © 2018 Chin Weng Fong. All rights reserved.
+//  Copyright © 2018 Zachary Fong. All rights reserved.
 //
 // I believe this is the best showing app for the interview. Modularity, Reusaability, Maintainability
 
